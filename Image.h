@@ -2,6 +2,7 @@
 #define IMAGE_H
 #include <string>
 #include <vector>
+//Image.h
 
 class Image
 {

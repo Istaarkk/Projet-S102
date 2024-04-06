@@ -2,7 +2,6 @@
 #include "Image.h"
 #ifndef FILTRE_H
 #define FILTRE_H
-
 #include <vector>
 
 class Filtre

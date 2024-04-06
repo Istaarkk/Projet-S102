@@ -2,6 +2,7 @@
 #include "utils.h"
 #include <iostream>
 #include <fstream>
+//this is a version of the first menue
 
 void Image::displayImageInfo() const {
     int hauteur = rouge.size();

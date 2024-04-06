@@ -1,5 +1,8 @@
 #include "filtre.h"
 #include "Image.h"
+
+//Filtre.h
+
 Filtre::Filtre(const std::vector<std::vector<float>>& matrice, float facteur) : matrice(matrice), facteur(facteur) {}
 
 std::vector<std::vector<int>> Filtre::applyFilter(const std::vector<std::vector<int>>& composante) const

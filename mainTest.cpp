@@ -2,6 +2,8 @@
 #include "Image.h"
 #include <iostream>
 
+//this file is used to test the script
+
 int main()
 {
     // Test du constructeur avec le chemin d'une image

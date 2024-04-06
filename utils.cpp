@@ -4,6 +4,8 @@
 #include <iostream>
 using namespace std;
 
+//this is the script for LoadPictures
+
 std::string getFileNameFromUser()
 {
     std::string fileName;
